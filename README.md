@@ -16,24 +16,12 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 Da un ejemplo
 ```
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
+### Proceso de Instalacion  🔧
+_Para empezar con el proyecto se procede a instalar un editor de código con el que debemos trabajar el programa, una buena opción es Visual Studio Code._
+ _Otra alternativa si es que el usuario no cuenta con los recursos necesarios para ejecutar los algoritmos, ya sea por falta de espacio en la memoria RAM o se tiene instalado un procesador no satisfactorio, es que utilice compilador online, este utiliza los recursos de la nube para correr los programas._
+_Crear una carpeta en donde guardaremos el código trabajado, se recomienda fabricarlo en un lugar fácil de recordar, ya que es muy común perder la ubicación de esta._   
+_Después de realizar todos los pasos, procedemos a crear un repositorio en la página GitHub. Primero creamos una cuenta, o si ya se cuenta con una, ingresamos nuestro usuario; seguido a esto, en la pantalla de inicio nos dirigimos a nuestros repositorios._
+//TODO
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
