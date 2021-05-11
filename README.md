@@ -1,4 +1,4 @@
-# BFS-JAMBAO🚀
+# BFS-JAMBAO 🤓🍺
 _Acá va un párrafo que describa lo que es el proyecto_
 
 ### Proceso de Instalacion  🔧
@@ -24,7 +24,7 @@ _Herramientas que usamos:_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Gabriel Neme** - *Trabajo Inicial* - [GaboRex](https://github.com/GaboRex)
-* **Miguel Molina** - *Codificador* - [fulanitodetal](#fulanito-de-tal)
-* **Richard Rojas** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Pablo Badani** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Gabriel Neme** -[GaboRex](https://github.com/GaboRex)
+* **Miguel Molina** - [Pabdro](https://github.com/Mickysaurio-rex)
+* **Richard Rojas** -[RichyRed](https://github.com/RichyRed)
+* **Pablo Badani** -[Mickysaurio-rex](https://github.com/Pabdro)
