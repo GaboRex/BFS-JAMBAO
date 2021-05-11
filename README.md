@@ -24,7 +24,7 @@ _Herramientas que usamos:_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Gabriel Neme** -[GaboRex](https://github.com/GaboRex)
+* **Gabriel Neme** -[GaboRex](#https://github.com/GaboRex)
 * **Miguel Molina** - [Pabdro](https://github.com/Mickysaurio-rex)
 * **Richard Rojas** -[RichyRed](https://github.com/RichyRed)
 * **Pablo Badani** -[Mickysaurio-rex](https://github.com/Pabdro)
