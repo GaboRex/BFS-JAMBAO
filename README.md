@@ -1,6 +1,4 @@
 # BFS-JAMBAO 🤓🍺
-_Acá va un párrafo que describa lo que es el proyecto_
-
 ### Proceso de Instalacion  🔧
 _Para empezar con el proyecto se procede a instalar un editor de código con el que debemos trabajar el programa, una buena opción es Visual Studio Code._
  _Otra alternativa si es que el usuario no cuenta con los recursos necesarios para ejecutar los algoritmos, ya sea por falta de espacio en la memoria RAM o se tiene instalado un procesador no satisfactorio, es que utilice compilador online, este utiliza los recursos de la nube para correr los programas._
@@ -17,12 +15,11 @@ _Podemos decir que el algoritmo BFS, aunque es una herramienta útil,  no existe
 ## Construido con 🛠️
 _Herramientas que usamos:_
 
-* [VisualStudioCode](https://code.visualstudio.com) - Editor de tecto usado.
+* [VisualStudioCode](https://code.visualstudio.com) - Editor de texto usado.
 * [CodeBlocks](https://www.codeblocks.org) - IDE usado.
+* [github](https://github.com) 
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Gabriel Neme** -[GaboRex](https://github.com/GaboRex)
 * **Miguel Molina** - [Pabdro](https://github.com/Mickysaurio-rex)
