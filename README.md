@@ -27,5 +27,5 @@ _Herramientas que usamos:_
 * **Richard Rojas** -[RichyRed](https://github.com/RichyRed)
 * **Pablo Badani** -[Mickysaurio-rex](https://github.com/Pabdro)
 
-<p align="center"><img src="![image](https://user-images.githubusercontent.com/80688833/117891841-9f6c4700-b285-11eb-8f5c-34493c21e6bf.png)
-"/></p> 
+![image](https://user-images.githubusercontent.com/80688833/117892107-1b668f00-b286-11eb-8027-131cd3a76f29.png)
+
