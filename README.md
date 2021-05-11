@@ -26,3 +26,7 @@ _Herramientas que usamos:_
 * **Miguel Molina** - [Pabdro](https://github.com/Mickysaurio-rex)
 * **Richard Rojas** -[RichyRed](https://github.com/RichyRed)
 * **Pablo Badani** -[Mickysaurio-rex](https://github.com/Pabdro)
+
+<h1 align="center"> Nombre de la herramienta</h1>
+<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<p align="center"><img src="![image](https://user-images.githubusercontent.com/80688833/117891749-78ae1080-b285-11eb-8d3e-4724b603bcf8.png)"/></p> 
