@@ -37,10 +37,17 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
+<<<<<<< HEAD
 * **Gabriel Neme** - *Trabajo Inicial* - [GaboRex](https://github.com/GaboRex)
 * **Miguel Molina** - *Codificador* - [fulanitodetal](#fulanito-de-tal)
 * **Richard Rojas** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 * **Pablo Badani** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+=======
+* **Gabriel Neme** - *Trabajo Inicial* - [GaboRex](https://github.com/villanuevand)
+* **Miguel Molina** - *Documentación* - 
+* * **Pablo Badani** - *Documentación* - 
+* * **Richard Rojas** - *Documentación* -
+>>>>>>> e78d41aa37d3e3aefd70c5ef9e4f2097e9f3b62e
 
 ## Expresiones de Gratitud 🎁
 
