@@ -19,7 +19,6 @@ _Podemos decir que el algoritmo BFS, aunque es una herramienta útil,  no existe
 ## Construido con: 🛠️
 * [VisualStudioCode](https://code.visualstudio.com) - Editor de tecto usado.
 * [CodeBlocks](https://www.codeblocks.org) - IDE usado.
-* [GitHub] (https://github.com)
 ## Autores :✒️
 
 * **Gabriel Neme** -[GaboRex](https://github.com/GaboRex)
