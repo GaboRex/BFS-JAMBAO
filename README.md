@@ -24,9 +24,9 @@ _Podemos decir que el algoritmo BFS, aunque es una herramienta útil,  no existe
 ## Autores:✒️
 
 * **Gabriel Neme** -[GaboRex](https://github.com/GaboRex)
-* **Miguel Molina** - [Pabdro](https://github.com/Mickysaurio-rex)
+* **Miguel Molina** - [Mickysaurio-rex](https://github.com/Mickysaurio-rex)
 * **Richard Rojas** -[RichyRed](https://github.com/RichyRed)
-* **Pablo Badani** -[Mickysaurio-rex](https://github.com/Pabdro)
+* **Pablo Badani** -[Pabdro](https://github.com/Pabdro)
 
 ![image](https://user-images.githubusercontent.com/80688833/117892107-1b668f00-b286-11eb-8027-131cd3a76f29.png)
 
