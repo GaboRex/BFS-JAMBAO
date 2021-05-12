@@ -70,8 +70,3 @@ int main()
     mostrarRecorridoBFS(1,servidores)
     return 0; 
 }
- pdre[nodoAVisitar] = [nodoActual];
-                printPath(nodoFinal)
-                if(padre(nodoFinal!=-1))
-                printPath(padre(nodo))
-                cout<<nodoFinal;
