@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h> // importamos las librerias
 using namespace std;
 
 /**
