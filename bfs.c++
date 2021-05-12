@@ -64,7 +64,7 @@ void Graph::BFS(int src){
         }
     }
 }  //imprime distancias
-int main(){
+int main(){ // rezamos
     int V = 5;
     Graph g(V);
     g.addEdge(0,1);
