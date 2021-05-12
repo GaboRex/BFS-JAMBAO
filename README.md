@@ -14,7 +14,7 @@ _Si se selecciona la opción Public (Pública) predeterminada, cualquiera podrá
 
 _Desactive la casilla de verificación Initialize this repository with a README (Inicializar este repositorio con un archivo README). En su lugar creará un archivo README.md manualmente en el siguiente paso.Elija "Create repository" crear repositorio._
 
-## Explicación del Algoritmo :brain: 
+## Explicación del Algoritmo: :brain: 
 
 _Para nuestro proyecto aplicamos el algoritmo BFS (Búsqueda en Anchura), y como tema, tomamos la idea de una red de servidores conectados entre sí, ya sea definido o no._ 
 _Nuestra aplicación tendrá una variedad de opciones con el que el usuario pueda interactuar._
