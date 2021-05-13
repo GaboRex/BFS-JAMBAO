@@ -15,6 +15,7 @@ _Active la casilla de verificación "Initialize this repository with a README”
 _“Algo interesante:”_
 _Ahora con nuestro repositorio creado y personalizado tenemos que clonarlo para poder realizar el proceso de conectar nuestro Visual Studio Code con nuestro repositorio en Github, así podremos usar con diferentes comandos en la terminal para subir nuestros proyectos directamente desde vsual studio code y lo guardamos en nuestro repositorio._
 
+![Uploading image.png…](![image](https://user-images.githubusercontent.com/80688833/118200997-7df59180-b424-11eb-9ffe-4e52028457cf.png)
 ## Explicación del Algoritmo: :brain: 
 
 _Para nuestro proyecto aplicamos el algoritmo BFS (Búsqueda en Anchura), y como tema, tomamos la idea de una red de servidores conectados entre sí, ya sea definido o no._ 
