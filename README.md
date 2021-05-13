@@ -9,10 +9,11 @@ _Después de realizar todos los pasos, procedemos a crear un repositorio en la p
 _En la página Create a new repository (Crear un nuevo repositorio), haga lo siguiente:_
 _En el cuadro Repository name (Nombre del repositorio), indique el nombre apropiado para el repositorio._
 _Seleccione Public._
-_Nota:_
+_Algo Importante:_
 _Si se selecciona la opción Public (Pública) predeterminada, cualquiera podrá ver este repositorio. Puede seleccionar la opción Private (Privado) para limitar quién puede ver el repositorio y confirmarlo(esto no es gratis)._
-
-_Desactive la casilla de verificación Initialize this repository with a README (Inicializar este repositorio con un archivo README). En su lugar creará un archivo README.md manualmente en el siguiente paso.Elija "Create repository" crear repositorio._
+_Active la casilla de verificación "Initialize this repository with a README” (Inicializar este repositorio con un archivo README). Este archivo README.md permite que podamos escribir como una portada o carta de presentación de nuestra página en github, cada persona puede personalizarlo de la manera que cada uno prefiera agregando imágenes, dividiendo en carpetas los archivos que subamos, así para tener todo ordenado y clasificado, también podemos editar esto desde nuestro editor de texto favorito “Vscode”. Elija "Create repository" crear repositorio._ 
+_“Algo interesante:”_
+_Ahora con nuestro repositorio creado y personalizado tenemos que clonarlo para poder realizar el proceso de conectar nuestro Visual Studio Code con nuestro repositorio en Github, así podremos usar con diferentes comandos en la terminal para subir nuestros proyectos directamente desde vsual studio code y lo guardamos en nuestro repositorio._
 
 ## Explicación del Algoritmo: :brain: 
 
