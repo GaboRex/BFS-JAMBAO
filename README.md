@@ -22,8 +22,9 @@ _Ahora con nuestro repositorio creado y personalizado tenemos que clonarlo para 
 _Para nuestro proyecto escogimos el algoritmo BFS (en inglés es Breadth First Search, Búsqueda en Anchura), como temática, formulamos una idea y tomamos un ejemplo en la vida real que es una red de servidores conectados entre sí, ya sea definido o no. La idea surge de preguntarnos de que manera están conectados dichos servidores y como llegan a recorrerse entre sí o llegar a “visitarse” entre sí._
 _El algoritmo implementado va ayudar a que las personas conozcan un tiempo estimado de llegada de un servidor a otro, verificando si hay una conexión entre el punto inicial y el punto final. Nuestro programa construye una pre visualización del grafo a partir de sus entradas, ayudando a que sea más sencillo visualizar las conexiones entre servidores._
 _La aplicación de este algoritmo tendrá una variedad de opciones con el que el usuario pueda interactuar. Ya sea que muestre el número de servidores por el que pasó la información, el recorrido que realizó los datos mandados, cual es el único camino para llegar de un nodo a otro o el árbol de recorrido que tendrá toda esta red de servidores. La misión de nuestra propuesta, es facilitar el diagnostico de tiempo tomando un paquete de datos para ir de un punto a otro, así ayudar a que haya menos retrasos al momento de compartir información._
+_Aquí tenemos un ejemplo gráfico de nuestro proyecto:._
 
-![image](https://user-images.githubusercontent.com/80688833/118365229-d1252c80-b569-11eb-8e02-d9b4bcd575d9.png)
+![image](https://user-images.githubusercontent.com/80688833/118365381-940d6a00-b56a-11eb-86cf-d7f4cf8cdea5.png)
 
 ## Explicación del Algoritmo: :brain: 
 
@@ -31,7 +32,8 @@ _El algoritmo BFS (breadth-first search), encuentra los caminos más cortos desd
 _Es una forma de encontrar todos los vértices alcanzables de un grafo partiendo de un vértice origen dado. Como en el algoritmo de búsqueda en profundidad, BFS recorre una componente conexa de un grafo y define un árbol de expansión._
 _Podemos ver que todo parte de un nodo inicial que será la raíz del árbol que se forma, luego ve los adyacentes a ese nodo y los agrega en una cola “stack”, como la prioridad de una cola es FIFO (primero en entrar es el primero en salir), los siguientes nodos a evaluar serán los adyacentes previamente insertados. una cosa bastante importante es el hecho de que no se pueden visitar 2 veces el mismo nodo o Estado. ya que sino podríamos terminar en un ciclo interminable o simplemente no hallar el punto deseado en el menor número de pasos._
 
-![image](https://user-images.githubusercontent.com/80688833/118365381-940d6a00-b56a-11eb-86cf-d7f4cf8cdea5.png)
+![image](https://user-images.githubusercontent.com/80688833/118365229-d1252c80-b569-11eb-8e02-d9b4bcd575d9.png)
+
 ## Conclusión: 🔩
 
 _El algoritmo BFS (breadth-first search), encuentra los caminos más cortos desde un vértice de origen dado a todos los demás vértices, en términos del número de aristas en los caminos._
