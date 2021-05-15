@@ -16,17 +16,30 @@ _“Algo interesante:”_
 _Ahora con nuestro repositorio creado y personalizado tenemos que clonarlo para poder realizar el proceso de conectar nuestro Visual Studio Code con nuestro repositorio en Github, así podremos usar con diferentes comandos en la terminal para subir nuestros proyectos directamente desde vsual studio code y lo guardamos en nuestro repositorio._
 
 ![image](https://user-images.githubusercontent.com/80688833/118200997-7df59180-b424-11eb-9ffe-4e52028457cf.png)
+
+## Definición del Problema: :hamburger: 
+
+_Para nuestro proyecto escogimos el algoritmo BFS (en inglés es Breadth First Search, Búsqueda en Anchura), como temática, formulamos una idea y tomamos un ejemplo en la vida real que es una red de servidores conectados entre sí, ya sea definido o no. La idea surge de preguntarnos de que manera están conectados dichos servidores y como llegan a recorrerse entre sí o llegar a “visitarse” entre sí._
+_El algoritmo implementado va ayudar a que las personas conozcan un tiempo estimado de llegada de un servidor a otro, verificando si hay una conexión entre el punto inicial y el punto final. Nuestro programa construye una pre visualización del grafo a partir de sus entradas, ayudando a que sea más sencillo visualizar las conexiones entre servidores._
+_La aplicación de este algoritmo tendrá una variedad de opciones con el que el usuario pueda interactuar. Ya sea que muestre el número de servidores por el que pasó la información, el recorrido que realizó los datos mandados, cual es el único camino para llegar de un nodo a otro o el árbol de recorrido que tendrá toda esta red de servidores. La misión de nuestra propuesta, es facilitar el diagnostico de tiempo tomando un paquete de datos para ir de un punto a otro, así ayudar a que haya menos retrasos al momento de compartir información._
+
+![image](https://user-images.githubusercontent.com/80688833/118365229-d1252c80-b569-11eb-8e02-d9b4bcd575d9.png)
+
 ## Explicación del Algoritmo: :brain: 
 
-_Para nuestro proyecto aplicamos el algoritmo BFS (Búsqueda en Anchura), y como tema, tomamos la idea de una red de servidores conectados entre sí, ya sea definido o no._ 
-_Nuestra aplicación tendrá una variedad de opciones con el que el usuario pueda interactuar._
-_Ya sea que muestre el número de servidores por el que pasó la información, el recorrido que realizó los datos mandados, cúal es el camino más rápido para llegar de un nodo a otro o el árbol de recorrido que tendrá toda esta red de servidores._
- _La misión de nuestra propuesta, es facilitar el diagnostico de tiempo tomando un paquete de datos para ir de un punto a otro, así ayudar a que haya menos retrasos al momento de compartir información ._
+_El algoritmo BFS (breadth-first search), encuentra los caminos más cortos desde un vértice de origen dado a todos los demás vértices, en términos del número de aristas en los caminos._
+_Es una forma de encontrar todos los vértices alcanzables de un grafo partiendo de un vértice origen dado. Como en el algoritmo de búsqueda en profundidad, BFS recorre una componente conexa de un grafo y define un árbol de expansión._
+_Podemos ver que todo parte de un nodo inicial que será la raíz del árbol que se forma, luego ve los adyacentes a ese nodo y los agrega en una cola “stack”, como la prioridad de una cola es FIFO (primero en entrar es el primero en salir), los siguientes nodos a evaluar serán los adyacentes previamente insertados. una cosa bastante importante es el hecho de que no se pueden visitar 2 veces el mismo nodo o Estado. ya que sino podríamos terminar en un ciclo interminable o simplemente no hallar el punto deseado en el menor número de pasos._
+
+![image](https://user-images.githubusercontent.com/80688833/118365381-940d6a00-b56a-11eb-86cf-d7f4cf8cdea5.png)
 ## Conclusión: 🔩
 
-_Podemos decir que el algoritmo BFS, aunque es una herramienta útil,  no existen muchas aplicaciones en las que se utiliza de  manera eficiente. Nuestro proyecto si lo requirió, mas en nuestra investigación nos fue difícil hallar una aplicación que no sea la resolución de un laberinto, o encontrar el camino en un cierto mapa._
+_El algoritmo BFS (breadth-first search), encuentra los caminos más cortos desde un vértice de origen dado a todos los demás vértices, en términos del número de aristas en los caminos._
+_Es una forma de encontrar todos los vértices alcanzables de un grafo partiendo de un vértice origen dado. Como en el algoritmo de búsqueda en profundidad, BFS recorre una componente conexa de un grafo y define un árbol de expansión._
+_Podemos ver que todo parte de un nodo inicial que será la raíz del árbol que se forma, luego ve los adyacentes a ese nodo y los agrega en una cola “stack”, como la prioridad de una cola es FIFO (primero en entrar es el primero en salir), los siguientes nodos a evaluar serán los adyacentes previamente insertados. una cosa bastante importante es el hecho de que no se pueden visitar 2 veces el mismo nodo o Estado. ya que sino podríamos terminar en un ciclo interminable o simplemente no hallar el punto deseado en el menor número de pasos._
 ## Construido con:🛠️
 
+* [OnlineGDB](https://www.onlinegdb.com) - Compilador y debugger para C++ en linea.
 * [VisualStudioCode](https://code.visualstudio.com) - Editor de texto usado.
 * [CodeBlocks](https://www.codeblocks.org) - IDE usado.
 * [github](https://github.com) 
@@ -38,5 +51,4 @@ _Podemos decir que el algoritmo BFS, aunque es una herramienta útil,  no existe
 * **Richard Rojas** -[RichyRed](https://github.com/RichyRed)
 * **Pablo Badani** -[Pabdro](https://github.com/Pabdro)
 
-![image](https://user-images.githubusercontent.com/80688833/117892107-1b668f00-b286-11eb-8027-131cd3a76f29.png)
-
+![image](https://user-images.githubusercontent.com/80688833/118365653-b05dd680-b56b-11eb-8241-d0d5b5afeb61.png)
